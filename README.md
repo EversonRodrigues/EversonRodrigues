@@ -2,7 +2,7 @@
 
 👨‍💻 Estudante de Ciência de Dados e Análise de Dados
 
-📚 Atualmente aprofundando meus conhecimentos em ciência de dados e análise de dados para explorar o poder dos dados e extrair insights valiosos.
+📚 Aprofundando meus conhecimentos em ciência de dados e análise de dados para explorar o poder dos dados e extrair insights valiosos.
 
 💡 Interessado em projetos de análise de dados, aprendizado de máquina e visualização de dados.
 
