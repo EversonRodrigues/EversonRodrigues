@@ -1,5 +1,16 @@
 ### Everson Rodrigues
-Atualmente mergulhando no mundo da análise e ciência de dados estou me posicionando estrategicamente para enfrentar os desafios e aproveitar as oportunidades no cenário empresarial moderno, onde os dados desempenham um papel fundamental no sucesso das organizações.
+
+👨‍💻 Estudante de Ciência de Dados e Análise de Dados
+
+📚 Atualmente aprofundando meus conhecimentos em ciência de dados e análise de dados para explorar o poder dos dados e extrair insights valiosos.
+
+💡 Interessado em projetos de análise de dados, aprendizado de máquina e visualização de dados.
+
+🔍 Explorando linguagens como Python, R e SQL, além de frameworks como Pandas, NumPy e TensorFlow.
+
+🌐 Procurando colaborar em projetos de código aberto e aprender com a comunidade de desenvolvimento de software.
+
+📊 Apaixonado por transformar dados em conhecimento acionável e impulsionar a tomada de decisões informadas.
 
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
