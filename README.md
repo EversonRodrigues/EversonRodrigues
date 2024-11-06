@@ -1,6 +1,6 @@
 ### Everson Rodrigues
 
-👨‍💻 Estudante de Ciência de Dados e Análise de Dados
+👨‍💻 Sou estudante de Ciência de Dados e Análise de Dados com conhecimento em *Excel, Power BI, SQL, Python*
 
 📚 Aprofundando meus conhecimentos em ciência de dados e análise de dados para explorar o poder dos dados e extrair insights valiosos.
 
@@ -21,9 +21,12 @@
 ##
 
 ### Você também pode me encontra:
-&nbsp;<a href="https://www.linkedin.com/in/eversonrodrigues10/">
+<div style="display: inline-block"> 
+<a href="https://www.linkedin.com/in/eversonrodrigues10/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/everson_rodrigues10">
+</a>
+<a href="https://www.instagram.com/everson_rodrigues10">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
+</a>
+  <a href = "mailto:everson101288[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
