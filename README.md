@@ -30,7 +30,10 @@
 </a>
   <a href = "mailto:everson101288[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##
+
+### Everson Rodrigues
 
 👨‍💻 Data Science and Data Analytics student with expertise in Excel, Power BI, SQL, and Python.
 
